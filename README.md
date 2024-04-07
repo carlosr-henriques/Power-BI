@@ -1,6 +1,6 @@
 # Power BI
 
-<center>![image](https://github.com/carlosr-henriques/Power-BI/assets/48866075/b7a727c1-48c8-4baa-97a3-0de3f693adba)</center>
+<img src="[img_girl.jpg](https://goaztech.com/wp-content/uploads/2022/12/Power-BI-Logo.png)" style="text-align: center;">
 
 
 O **Power** BI é um serviço de análise de negócios e analise de dados criado pela Microsoft. 
