@@ -1,7 +1,4 @@
-# Power BI
-
 <img src="https://goaztech.com/wp-content/uploads/2022/12/Power-BI-Logo.png" style="text-align:center;">
-
 
 O **Power** BI é um serviço de análise de negócios e analise de dados criado pela Microsoft. 
 
